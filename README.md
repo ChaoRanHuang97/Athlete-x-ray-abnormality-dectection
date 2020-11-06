@@ -9,7 +9,7 @@
 [Real-Time Grasp Detection Using Convolutional Neural Networks](https://pjreddie.com/media/files/papers/grasp_detection_1.pdf)
 
 ## Demo Video of first stage
-[![Demo_video](https://share.gifyoutube.com/yoYOjW.gif)](https://www.youtube.com/watch?v=v-Xl1TSEdnk)
+[![Demo_video](https://github.com/ChaoRanHuang97/AI_Sports-Snowboard-/blob/master/demo_video/demo.gif)](https://www.youtube.com/watch?v=v-Xl1TSEdnk)
 
 
 
