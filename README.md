@@ -7,3 +7,12 @@
 [Who Let The Dogs Out?](https://github.com/ChaoRanHuang97/AI_Sports-Snowboard-/blob/master/Who%20Let%20The%20Dogs%20Out%3F.pdf)
 
 [Real-Time Grasp Detection Using Convolutional Neural Networks](https://pjreddie.com/media/files/papers/grasp_detection_1.pdf)
+
+## Demo Video of first stage
+[![Demo_video](https://j.gifs.com/yoYOjW.gif)](https://www.youtube.com/watch?v=v-Xl1TSEdnk)
+
+
+
+
+
+
