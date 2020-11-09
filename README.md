@@ -8,6 +8,7 @@
 
 [Real-Time Grasp Detection Using Convolutional Neural Networks](https://pjreddie.com/media/files/papers/grasp_detection_1.pdf)
 
+[YOLO9000: Better, Faster, Stronger](https://pjreddie.com/media/files/papers/YOLO9000.pdf) A new classification method to improve labeling pictures in YOLO v2.
 ## Demo Video of first stage
 [![Demo_video](https://github.com/ChaoRanHuang97/AI_Sports-Snowboard-/blob/master/demo_video/demo.gif)](https://www.youtube.com/watch?v=v-Xl1TSEdnk)
 
