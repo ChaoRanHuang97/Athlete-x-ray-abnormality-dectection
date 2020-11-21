@@ -24,12 +24,12 @@
 <details>
   <summary>UCI: CS177: Applications of Probability in Computer Science</summary>
   [Erik B. Sudderth](https://www.ics.uci.edu/~sudderth/)
-	|  Number   | Topics  |
-	|  ----  | ----  |
-	| 1A | Discrete Random Variables |
-	| 1B  | Expectations and Functions, Linearity  |
-	| 2A | Variance, Empirical Distributions |
-	| 2B | Bayes' Rule, Classification Algorithms, Joint Distributions, Conditional Independence | 
+|  Number   | Topics  |
+|  ----  | ----  |
+| 1A | Discrete Random Variables |
+| 1B  | Expectations and Functions, Linearity  |
+| 2A | Variance, Empirical Distributions |
+| 2B | Bayes' Rule, Classification Algorithms, Joint Distributions, Conditional Independence | 
 </details>
 
 
