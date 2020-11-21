@@ -12,6 +12,16 @@
 ## Demo Video of first stage
 [![Demo_video](https://github.com/ChaoRanHuang97/AI_Sports-Snowboard-/blob/master/demo_video/demo.gif)](https://www.youtube.com/watch?v=v-Xl1TSEdnk)
 
+[Investigations of Object Detection in Images/Videos Using Various Deep Learning Techniques and Embedded Platforms](https://github.com/ChaoRanHuang97/AI_Sports-Snowboard-/blob/master/applsci-10-03280-v2.pdf)
+
+[Using Synthetic Data to Improve and Evaluate the Tracking Performance of Construction Workers on Site](https://github.com/ChaoRanHuang97/AI_Sports-Snowboard-/blob/master/applsci-10-04948.pdf)
+
+[Active Player Detection in Handball Scenes Based on Activity Measures](https://github.com/ChaoRanHuang97/AI_Sports-Snowboard-/blob/master/sensors-20-01475-v2.pdf)
+
+[Assessment and Estimation of Face Detection Performance Based on Deep Learning for Forensic Applications †](https://github.com/ChaoRanHuang97/AI_Sports-Snowboard-/blob/master/sensors-20-04491-v3.pdf)
+
+
+
 
 
 
