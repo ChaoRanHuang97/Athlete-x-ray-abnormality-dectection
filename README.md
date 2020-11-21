@@ -21,14 +21,35 @@
 
 [Assessment and Estimation of Face Detection Performance Based on Deep Learning for Forensic Applications †](https://github.com/ChaoRanHuang97/AI_Sports-Snowboard-/blob/master/sensors-20-04491-v3.pdf)
 
+***
+
   UCI: CS177: Applications of Probability in Computer Science
-  [Erik B. Sudderth](https://www.ics.uci.edu/~sudderth/)
+  Prof. [Erik B. Sudderth](https://www.ics.uci.edu/~sudderth/)
+Unless specified otherwise, readings below refer to sections in the course textbook, [Introduction to Probability](http://athenasc.com/probbook.html).
 |  Number   | Topics  |
 |  ----  | ----  |
 | 1A | Discrete Random Variables |
 | 1B  | Expectations and Functions, Linearity  |
 | 2A | Variance, Empirical Distributions |
 | 2B | Bayes' Rule, Classification Algorithms, Joint Distributions, Conditional Independence | 
+| 3A | Continuous Variables, Probability Densities |
+| 3B | Variance, Gaussian (Normal) Distributions, Sums of Random Variables |
+| 4A | Classification with Continuous Data, Decision Theory |
+| 4B | __Exam 1 Help Session__ |
+| 5A | Law of Large Numbers, Central Limit Theorem |
+| 5B | Polling, Monte Carlo Methods |
+| 6A | Monte Carlo, Analysis of Algorithms |
+| 6B | Monte Carlo Rendering, Entropy |
+| 7A | Information Theory, Feature Selection, Compression Algorithms |
+| 7B | Compression Algorithms, Entropy and Monte Carlo |
+| 8A | __Exam 2 Help Session__ |
+| 8B | __Thanksgiving Holiday__ |
+| 9A | Markov Chains |
+| 9B | Markov Chains |
+| 10A | Markov Chains, Application: Brain Computer Interfaces  |
+| 10B | __Exam 3 Help Session__ |
+| - | __Exam 3__ |  
+
 
 
 
