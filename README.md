@@ -55,7 +55,7 @@ Unless specified otherwise, readings below refer to sections in the course textb
 ***
 
  UCI: CS178: Machine Learning & Data Mining
- Prof. (Alexander Ihler)[https://www.ics.uci.edu/~ihler/]
+ Prof. [Alexander Ihler](https://www.ics.uci.edu/~ihler/)
 
 |  Number | Date  | Topics  |
 |  ----  | ---- | ----  |
@@ -84,10 +84,12 @@ Unless specified otherwise, readings below refer to sections in the course textb
 ***
 
  UCI: ICS 171 Introduction to Artificial Intelligence
- Dr. (Kalev Kask)[https://www.ics.uci.edu/~kkask/courses.html]
+ Dr. [Kalev Kask](https://www.ics.uci.edu/~kkask/courses.html)
  Textbook: (Artificial Intelligence: A Modern Approach)[http://aima.cs.berkeley.edu/]
- <details>
- <summary>goal</summary>
+[Project](https://gitlab.ics.uci.edu/ai-projects/Checkers_Student) 
+
+<details>
+ <summary>Goal</summary>
 The goal in this class is to familiarize you with basic concepts and principles of Artificial Intelligence. This is an introductory course that covers many areas of AI, without going into significant detail in any one. You will learn basic AI techniques, when they are applicable and their limitations.
 
 The course focuses on three major areas of AI –
@@ -118,9 +120,11 @@ We will cover chapters 1-9, 12-13, 19, 21, 22 from the Russell & Norvig textbook
 
 </details>
 
+
+
 ***
 
-(UCI: CompSci 161 - Design and Analysis of Algorithms)[https://www.ics.uci.edu/~dillenco/compsci161/]
+[UCI: CompSci 161 - Design and Analysis of Algorithms](https://www.ics.uci.edu/~dillenco/compsci161/)
 
 
 
