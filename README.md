@@ -25,32 +25,102 @@
 
   UCI: CS177: Applications of Probability in Computer Science
   Prof. [Erik B. Sudderth](https://www.ics.uci.edu/~sudderth/)
+
 Unless specified otherwise, readings below refer to sections in the course textbook, [Introduction to Probability](http://athenasc.com/probbook.html).
-|  Number   | Topics  |
-|  ----  | ----  |
-| 1A | Discrete Random Variables |
-| 1B  | Expectations and Functions, Linearity  |
-| 2A | Variance, Empirical Distributions |
-| 2B | Bayes' Rule, Classification Algorithms, Joint Distributions, Conditional Independence | 
-| 3A | Continuous Variables, Probability Densities |
-| 3B | Variance, Gaussian (Normal) Distributions, Sums of Random Variables |
-| 4A | Classification with Continuous Data, Decision Theory |
-| 4B | __Exam 1 Help Session__ |
-| 5A | Law of Large Numbers, Central Limit Theorem |
-| 5B | Polling, Monte Carlo Methods |
-| 6A | Monte Carlo, Analysis of Algorithms |
-| 6B | Monte Carlo Rendering, Entropy |
-| 7A | Information Theory, Feature Selection, Compression Algorithms |
-| 7B | Compression Algorithms, Entropy and Monte Carlo |
-| 8A | __Exam 2 Help Session__ |
-| 8B | __Thanksgiving Holiday__ |
-| 9A | Markov Chains |
-| 9B | Markov Chains |
-| 10A | Markov Chains, Application: Brain Computer Interfaces  |
-| 10B | __Exam 3 Help Session__ |
-| - | __Exam 3__ |  
 
+|  Number | Date  | Topics  |
+|  ----  | ---- | ----  |
+| 1A | 10/06/2020 | Discrete Random Variables |
+| 1B | 10/08/2020  | Expectations and Functions, Linearity  |
+| 2A | 10/13/2020 |  Variance, Empirical Distributions |
+| 2B | 10/15/2020 | Bayes' Rule, Classification Algorithms, Joint Distributions, Conditional Independence | 
+| 3A | 10/13/2020 | Continuous Variables, Probability Densities |
+| 3B | 10/20/2020 | Variance, Gaussian (Normal) Distributions, Sums of Random Variables |
+| 4A | 10/27/2020 | Classification with Continuous Data, Decision Theory |
+| 4B | 10/29/2020 | __Exam 1 Help Session__ |
+| 5A | 11/03/2020 | Law of Large Numbers, Central Limit Theorem |
+| 5B | 11/05/2020 | Polling, Monte Carlo Methods |
+| 6A | 11/10/2020 | Monte Carlo, Analysis of Algorithms |
+| 6B | 11/12/2020 | Monte Carlo Rendering, Entropy |
+| 7A | 11/17/2020 | Information Theory, Feature Selection, Compression Algorithms |
+| 7B | 11/19/2020 | Compression Algorithms, Entropy and Monte Carlo |
+| 8A | 11/24/2020 | __Exam 2 Help Session__ |
+| 8B | 11/26/2020 | __Thanksgiving Holiday__ |
+| 9A | 12/01/2020 |  Markov Chains |
+| 9B | 12/03/2020 |  Markov Chains |
+| 10A | 12/08/2020 | Markov Chains, Application: Brain Computer Interfaces  |
+| 10B | 12/10/2020 |  __Exam 3 Help Session__ |
+| - | 12/18/2020 | __Exam 3__ |  
 
+***
+
+ UCI: CS178: Machine Learning & Data Mining
+ Prof. (Alexander Ihler)[https://www.ics.uci.edu/~ihler/]
+
+|  Number | Date  | Topics  |
+|  ----  | ---- | ----  |
+| 1A | 10/06/2020 | Bayesian Classifiers, Naive Bayes |
+| 1B | 10/08/2020  | Nearest Neighbor Methods, Validation  |
+| 2A | 10/13/2020 |  Linear regression |
+| 2B | 10/15/2020 | Lin Reg; Linear classificaton | 
+| 3A | 10/13/2020 | Linear classifiers cont'd |
+| 3B | 10/20/2020 | Linear classifiers cont'd |
+| 4A | 10/27/2020 | Support vector machines (SVMs) |
+| 4B | 10/29/2020 | VC dimension |
+| 5A | 11/03/2020 | Neural networks |
+| 5B | 11/05/2020 | Decision Trees |
+| 6A | 11/10/2020 | __Midterm Exam (online)__ |
+| 6B | 11/12/2020 | Ensembles: Bagging, Boosting |
+| 7A | 11/17/2020 | Clustering |
+| 7B | 11/19/2020 | Latent space models: PCA  |
+| 8A | 11/24/2020 | Latent space models cont'd |
+| 8B | 11/26/2020 | __Thanksgiving Holiday__ |
+| 9A | 12/01/2020 |  Reinforcement learning |
+| 9B | 12/03/2020 |  Reinforcement learning |
+| 10A | 12/08/2020 | Reinforcement learning  |
+| 10B | 12/10/2020 | Final Exam Review |
+| - | 12/15/2020 | __Final Exam (10:30-12:30)__ |  
+
+***
+
+ UCI: ICS 171 Introduction to Artificial Intelligence
+ Dr. (Kalev Kask)[https://www.ics.uci.edu/~kkask/courses.html]
+ Textbook: (Artificial Intelligence: A Modern Approach)[http://aima.cs.berkeley.edu/]
+ <details>
+ <summary>goal</summary>
+The goal in this class is to familiarize you with basic concepts and principles of Artificial Intelligence. This is an introductory course that covers many areas of AI, without going into significant detail in any one. You will learn basic AI techniques, when they are applicable and their limitations.
+
+The course focuses on three major areas of AI –
+
+·       Search
+
+o   Basic (Uninformed) Search (Ch 3)
+
+o   Heuristic (Informed) Search (Ch 3-4)
+
+o   Game Search (Ch 5)
+
+·       Knowledge Representation (Formal Languages and Models),
+
+o   Constraint Satisfaction (Ch 6)
+
+o   Logic (Propositional, First Order) (Ch 7-9)
+
+·       Learning
+
+o   Probabilistic Modelling (Bayesian Networks) (Ch 12-13)
+
+o   Machine Learning (Basics, Linear Regression, kNN, Decision Trees, Neural Nets) (Ch 19, 21)
+
+o   Reinforcement Learning (Ch 22)
+
+We will cover chapters 1-9, 12-13, 19, 21, 22 from the Russell & Norvig textbook.
+
+</details>
+
+***
+
+(UCI: CompSci 161 - Design and Analysis of Algorithms)[https://www.ics.uci.edu/~dillenco/compsci161/]
 
 
 
