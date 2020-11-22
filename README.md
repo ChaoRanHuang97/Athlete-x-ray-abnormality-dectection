@@ -23,7 +23,7 @@
 
 ***
 
-  UCI: CS177: Applications of Probability in Computer Science
+ __UCI: CS177: Applications of Probability in Computer Science__
 
   Prof. [Erik B. Sudderth](https://www.ics.uci.edu/~sudderth/)
 
@@ -56,7 +56,7 @@ Unless specified otherwise, readings below refer to sections in the course textb
 
 ***
 
- UCI: CS178: Machine Learning & Data Mining
+ __UCI: CS178: Machine Learning & Data Mining__
 
  Prof. [Alexander Ihler](https://www.ics.uci.edu/~ihler/)
 
@@ -86,7 +86,7 @@ Unless specified otherwise, readings below refer to sections in the course textb
 
 ***
 
- UCI: ICS 171 Introduction to Artificial Intelligence
+ __UCI: ICS 171 Introduction to Artificial Intelligence__
 
  Dr. [Kalev Kask](https://www.ics.uci.edu/~kkask/courses.html)
 
@@ -130,7 +130,7 @@ We will cover chapters 1-9, 12-13, 19, 21, 22 from the Russell & Norvig textbook
 
 ***
 
-[UCI: CompSci 161 - Design and Analysis of Algorithms](https://www.ics.uci.edu/~dillenco/compsci161/)
+ __[UCI: CompSci 161 - Design and Analysis of Algorithms](https://www.ics.uci.edu/~dillenco/compsci161/)__
 
 
 
