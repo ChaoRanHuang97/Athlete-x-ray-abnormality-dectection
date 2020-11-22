@@ -24,7 +24,9 @@
 ***
 
   UCI: CS177: Applications of Probability in Computer Science
+
   Prof. [Erik B. Sudderth](https://www.ics.uci.edu/~sudderth/)
+
 
 Unless specified otherwise, readings below refer to sections in the course textbook, [Introduction to Probability](http://athenasc.com/probbook.html).
 
@@ -55,6 +57,7 @@ Unless specified otherwise, readings below refer to sections in the course textb
 ***
 
  UCI: CS178: Machine Learning & Data Mining
+
  Prof. [Alexander Ihler](https://www.ics.uci.edu/~ihler/)
 
 |  Number | Date  | Topics  |
@@ -84,8 +87,11 @@ Unless specified otherwise, readings below refer to sections in the course textb
 ***
 
  UCI: ICS 171 Introduction to Artificial Intelligence
+
  Dr. [Kalev Kask](https://www.ics.uci.edu/~kkask/courses.html)
- Textbook: (Artificial Intelligence: A Modern Approach)[http://aima.cs.berkeley.edu/]
+
+ Textbook: [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
+
 [Project](https://gitlab.ics.uci.edu/ai-projects/Checkers_Student) 
 
 <details>
