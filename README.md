@@ -59,6 +59,8 @@ Unless specified otherwise, readings below refer to sections in the course textb
  __UCI: CS178: Machine Learning & Data Mining__
 
  Prof. [Alexander Ihler](https://www.ics.uci.edu/~ihler/)
+ 
+ [class project](https://canvas.eee.uci.edu/courses/31018/pages/projects)
 
 |  Number | Date  | Topics  |
 |  ----  | ---- | ----  |
