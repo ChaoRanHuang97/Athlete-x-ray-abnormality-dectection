@@ -60,6 +60,7 @@ Unless specified otherwise, readings below refer to sections in the course textb
 
  Prof. [Alexander Ihler](https://www.ics.uci.edu/~ihler/)
  
+ :star2: :star2: :star2:
  [class project](https://canvas.eee.uci.edu/courses/31018/pages/projects)
 
 |  Number | Date  | Topics  |
@@ -94,6 +95,7 @@ Unless specified otherwise, readings below refer to sections in the course textb
 
  Textbook: [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
 
+:star2: :star2: :star2:
 [Project](https://gitlab.ics.uci.edu/ai-projects/Checkers_Student) 
 
 <details>
