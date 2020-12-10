@@ -21,6 +21,8 @@
 
 [Assessment and Estimation of Face Detection Performance Based on Deep Learning for Forensic Applications †](https://github.com/ChaoRanHuang97/AI_Sports-Snowboard-/blob/master/sensors-20-04491-v3.pdf)
 
+[Monte-Carlo Tree Search and Minimax Hybrids](https://dke.maastrichtuniversity.nl/m.winands/documents/paper%2049.pdf)
+
 ***
 
  __UCI: CS177: Applications of Probability in Computer Science__
