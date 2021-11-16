@@ -1,1 +1,1 @@
-# vinbigdata-chest-xray-abnormalities-detection
+# Athlete-x-ray-abnormality-dectection
